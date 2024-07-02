@@ -61,3 +61,7 @@ Tracking my NitHub Hatch Dev weekly project source code.
 
 1. LeetCode Symmetric Tree: https://leetcode.com/problems/symmetric-tree
 2. LeetCode Search in Rotated Array: https://leetcode.com/problems/search-in-rotated-sorted-array
+
+## Week 13
+
+1. Implement exponential backoff algorithm (extra).
